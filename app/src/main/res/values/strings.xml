@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Best Mom Ever</string>
+    <string name="intro1">LET\'S PLAY A GAME!</string>
+
+    <!-- QUESTIONS 1 -->
+    <string name="pants_black">Black</string>
+    <string name="pants_white">White</string>
+    <string name="no_pants">No Pants!</string>
+    <string name="question_one">Hey Mom! What\'s My Favorite Color Pants?</string>
+    <string name="question_one_answer">You\'re God Damn Right!</string>
+
+    <!-- QUESTIONS 2 -->
+    <string name="favorite_dad">Dad</string>
+    <string name="favorite_mom">Mom</string>
+    <string name="favorite_both">Both</string>
+    <string name="question_two">Who\'s My Favorite Person In The Whole Wide World?</string>
+    <string name="question_two_wrong">No Mom. No.</string>
+    <string name="question_two_answer">You\'re # 1! You\'re # 1!</string>
+
+
+    <!-- QUESTIONS 3 -->
+    <string name="question_three">On A Scale Of 1-10 How Much Do I Love My Mom?</string>
+    <string name="question_three_wrong">NOT EVEN CLOSE!</string>
+    <string name="question_three_answer">YAY! YOU WIN! CLICK NEXT TO SEE WHAT I MADE FOR YOU!</string>
+    <string name="submit_button">Submit</string>
+
+    <!-- QUESTIONS 3 -->
+    <string name="watch">WATCH!</string>
+    <string name="play_again">PLAY AGAIN!</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
